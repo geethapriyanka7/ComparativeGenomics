@@ -1,6 +1,5 @@
-# Team1-ComparativeGenomics
-## Members
-Kaiqin Bian, Rakin Choudhury, Upaasana Krishnan, Mariam Nawaz, Geetha Priyanka Yerradoddi, Wang Zun
+# ComparativeGenomics
+
 ## FastANI:
 FastANI is a tool that calculates the fast alignment-free computation of whole-genome Average Nucleotide Identity (ANI). ANI is defined as the mean nucleotide identity of orthologous gene pairs shared between two microbial genomes. FastANI supports pairwise comparison of both complete and draft genome assemblies. 
 Input - Assembled fasta sequences
